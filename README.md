@@ -1,4 +1,3 @@
-# projeto_caos
 # 🏋️‍♂️ Projeto Caos – Simulando a Bagunça na Academia
 
 Este projeto é uma simulação simples, divertida e estatisticamente interessante sobre **como usuários de academia — organizados e bagunceiros — afetam o "nível de caos" do porta-halteres** ao longo do dia.
