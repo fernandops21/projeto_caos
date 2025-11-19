@@ -33,7 +33,7 @@ Existem dois tipos de usuários:
 ### 🔹 `Academia`
 Representa a estrutura do porta-halteres.
 
-- Gera halteres de 10kg a 98kg (pares pares).
+- Gera halteres de 10kg a 98kg (pares).
 - Tem um dicionário `porta_halteres` onde:
   - chave = posição
   - valor = peso do halter
